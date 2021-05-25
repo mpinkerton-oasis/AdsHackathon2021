@@ -1,0 +1,6 @@
+fitbit
+Pandas
+DateTime
+Oauth
+ipykernel
+cherrypy
