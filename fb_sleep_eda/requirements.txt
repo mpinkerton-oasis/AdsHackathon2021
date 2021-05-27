@@ -6,3 +6,6 @@ ipykernel
 cherrypy
 sklearn
 statsmodels
+auto-sklearn
+matpoltlib
+calmap
