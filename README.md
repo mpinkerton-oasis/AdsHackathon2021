@@ -16,5 +16,6 @@
 * Tagged outdoor activities with geo-data
 
 
-Example activity: Cycling in Cornwall!
+##Example activity: Cycling in Cornwall!
+
 <img src="img/cornwall.jpeg" width="500"/>
