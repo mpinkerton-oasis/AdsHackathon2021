@@ -1,3 +1,6 @@
+import pandas as pd 
+from scipy import stats
+
 def chi2_table(series1, series2, to_csv = False, csv_name = None, 
                 prop= False):
     
