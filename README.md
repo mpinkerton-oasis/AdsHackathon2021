@@ -15,3 +15,6 @@
 * Analyzed 8+ months of sleep data
 * Tagged outdoor activities with geo-data
 
+
+Example activity: Cycling in Cornwall!
+<img src="img/cornwall.jpeg" width="500"/>
