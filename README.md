@@ -18,4 +18,8 @@
 
 ## Example activity: Cycling in Cornwall!
 
-<img src="img/cornwall.jpeg" width="500"/>
+<img src="img/cornwall.jpeg" width="400"/>
+
+<img src="img/route.png" width="400"/>
+
+<img src="img/CLC.png" width="400"/>
